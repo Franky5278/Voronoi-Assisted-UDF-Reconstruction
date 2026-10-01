@@ -1,0 +1,31 @@
+
+VAD Bunny 10k - 3D Voronoi Summary
+====================================
+
+Input points:
+10000
+
+Number of Voronoi vertices:
+67276
+
+Number of Voronoi bisectors:
+77722
+
+Bounded bisectors:
+75804
+
+Unbounded bisectors:
+1918
+
+Voronoi neighbours per point:
+min     = 4
+median  = 15.0
+mean    = 15.406
+max     = 87
+
+Nearest-neighbour scale:
+h       = 7.460892366179957e-05
+
+Future VAD diffusion parameters:
+t       = h^2       = 5.566491489972235e-09
+epsilon = 1e-4 * h  = 7.460892366179957e-09

@@ -1,0 +1,30 @@
+
+VAD Bunny 10k - Voronoi Bisector Sampling
+==========================================
+
+Input points:
+10000
+
+Valid bounded bisector polygons:
+75111
+
+Total bounded bisector area:
+4921.952586230789
+
+Target samples:
+200000
+
+Actual samples:
+200000
+
+Minimum point spacing h:
+7.460892366179957e-05
+
+Sum of quadrature weights:
+4921.9521484375
+
+Relative area integration error:
+9.920478305502911e-08
+
+Output:
+/root/autodl-tmp/VAD/data/bunny_bisector_samples_200k.npz
